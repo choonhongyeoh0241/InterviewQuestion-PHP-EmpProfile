@@ -44,3 +44,6 @@ Simple php test to create and display employee profile
 - Clean code and good practise
 - Good UI UX
 
+![image](https://user-images.githubusercontent.com/103093747/212347795-8a2ab676-153f-4d93-b828-3125b909f9f1.png)
+![image](https://user-images.githubusercontent.com/103093747/212347872-9efe5377-d204-4e8e-b4f4-82416f724fc0.png)
+
